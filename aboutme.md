@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The person behind Megafarad projects
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Chris Carrington. I'm a Seattle based software engineer with over ten years of computing/IT experience, five years of technical support experience, and more than five years of software development experience. I'm also a fast learner, with a talent for learning through experimentation.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+After a 5-year career break, I'm getting back into the workforce. While searching for work, I have spent most of my recent time writing some open-source code. Please take a look at my projects on the following slide.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I’m always looking for new projects and partners to collaborate with, so get in touch if you’d like to connect.

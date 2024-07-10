@@ -22,7 +22,7 @@ author: Chris Carrington
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - OmoiOmoi Transcripts: "https://github.com/megafarad/omoiomoi
+    - OmoiOmoi Transcripts: "https://github.com/megafarad/omoiomoi"
     - JMdict service: "https://github.com/megafarad/JMdict-service"
     - Ve-scala: "https://github.com/megafarad/Ve-scala"
 
